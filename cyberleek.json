@@ -1,0 +1,156 @@
+{
+  "name": "Cyberleeks",
+  "author": "ishaan",
+  "description": "All videos published by Cyberleek.",
+  "icon": "https://i.imgur.com/J5047e3.png",
+  "website": "https://wayfinder.ar.io/?q=cyberleek",
+  "items": [
+    {
+      "title": "Basketball",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/1.%20BASKETBALL%20VIDEO%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "1st leak"
+    },
+    {
+      "title": "video2",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/2.%20RANDOM%20VIDEO%201%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "2nd leak"
+    },
+    {
+      "title": "taser",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/3.%20TASER%20VIDEO%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "3rd leak"
+    },
+    {
+      "title": "junkies",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/4.%20JUNKIES%20VIDEO%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "4th leak"
+    },
+    {
+      "title": "plane",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/5.%20PLANE%20VIDEO%20%28POLL%29%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "5th leak"
+    },
+    {
+      "title": "hypercar1",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/6.%20HYPERCAR%20PART%201%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "6th leak"
+    },
+    {
+      "title": "hypercar2",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/7.%20HYPER%20CAR%20PART%202%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "7th leak"
+    },
+    {
+      "title": "stripclub1",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/8.%20STRIP%20CLUB%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "8th leak"
+    },
+    {
+      "title": "gas",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/9.%20GAS%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "9th leak"
+    },
+    {
+      "title": "plane2",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/10.%20PLANE%20%28NIGHT%29%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "10th leak"
+    },
+    {
+      "title": "nudist_town",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/11.%20NUDIST%20TOWN%20%28STRONG%20NUDITY%29%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "11th leak"
+    },
+    {
+      "title": "nine1nine",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/12.%20NINE1NINE%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "12th leak"
+    },
+    {
+      "title": "beach",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/13.%20BEACH%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "13th leak"
+    },
+    {
+      "title": "game_store",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/14.%20GAME%20STORE%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "14th leak"
+    },
+    {
+      "title": "rideout_customs",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/15.%20RIDEOUT%20CUSTOMS%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "15th leak"
+    },
+    {
+      "title": "prologue1",
+      "type": "video",
+      "url": "https://archive.org/download/gta6_cyberleek/16.%20PROLOGUE%20HDR.mp4",
+      "folder": "Leeks",
+      "description": "16th leak"
+    },
+    {
+      "title": "an_extended_leek",
+      "type": "video",
+      "url": "https://edef3.pcloud.com/cBZpHqCu07ZBVhOXJkZDr1sZZFaUfJkZ2ZZ9i0ZkZgsIcWZ9RZw4ZXPZYHZ44ZzJZy5ZFRZp9ZK8ZlMZ24Z8RZnFZ7JUk7ZHipU0MCy6UkcsvYvQnTD0LePWXJ7/extended_leek.mp4",
+      "folder": "Leeks",
+      "description": "17th leak"
+    },
+    {
+      "title": "stunt",
+      "type": "video",
+      "url": "https://files.catbox.moe/lol1fo.mp4",
+      "folder": "Leeks",
+      "description": "18th leak"
+    },
+    {
+      "title": "full_map",
+      "type": "image",
+      "url": "https://i.imgur.com/sjxcry5.jpeg",
+      "folder": "Maps",
+      "description": "Full Map"
+    },
+    {
+      "title": "map_sneak_peek_1",
+      "type": "image",
+      "url": "https://i.imgur.com/Ks9VNQx.png",
+      "folder": "Maps",
+      "description": "Map Sneak Peek 1"
+    },
+    {
+      "title": "map_sneak_peek_2",
+      "type": "image",
+      "url": "https://i.imgur.com/gd0Dq5b.png",
+      "folder": "Maps",
+      "description": "Map Sneak Peek 2"
+    }
+  ]
+}
